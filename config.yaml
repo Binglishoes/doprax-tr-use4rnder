@@ -8,11 +8,11 @@ inbounds:
   protocol: trojan
   settings:
     clients:
-    - password: "yourPassword"
+    - password: "bing"
   streamSettings:
     network: ws
     wsSettings:
-      path: yourwspath
+      path: /bing
   sniffing:
     enabled: true
     destOverride:
